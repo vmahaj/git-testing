@@ -1,2 +1,2 @@
 # git-testing
-Testing of git
+Testing of git..
